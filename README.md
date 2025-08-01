@@ -1,4 +1,6 @@
 # Wasm enabler
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fk0sproject%2Fwasm-enabler.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fk0sproject%2Fwasm-enabler?ref=badge_shield)
+
 
 k0s plugin to enable wasm runtime.
 
@@ -71,3 +73,6 @@ Once the Pod is running you can invoke the service via the exposed `NodePort` se
 # curl 172.17.0.3:32196/hello
 Hello world from Spin!
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fk0sproject%2Fwasm-enabler.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fk0sproject%2Fwasm-enabler?ref=badge_large)
